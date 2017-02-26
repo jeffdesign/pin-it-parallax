@@ -32,7 +32,7 @@ if ( (currentPos >= targetElemTopPos) && (currentPos <= targetElemenBotPos) ) {
 }
 ```
 
-* [Demo](https://codepen.io/jeffdesign/pen/jBOdgE) Demo
+* [Demo](https://codepen.io/jeffdesign/pen/jBOdgE)
 
 ## Contributors
 
